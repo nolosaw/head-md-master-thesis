@@ -1,26 +1,28 @@
 # Master Thesis
 
 Master Media Design - HEAD-Genève
+Mémoire de Master Thesis
+Mathilde Schibler
 
-## « Dans quelle mesure les jeux abordant les droits humains développent-ils un sentiment d’empathie chez la personne qui en fait l’expérience ? Quels rôles peuvent-ils jouer dans l’aspiration à une société plus acueillante et inclusive ? »
+## « Dans quelle mesure les jeux abordant les droits humains développent-ils un sentiment d’empathie chez la personne qui en fait l’expérience ? Quels rôles peuvent-ils jouer dans l’aspiration à une société plus accueillante et inclusive ? »
 
 ![Chapatte](/2-Recherche/Images/CHAPPATTE-071.jpg)
 
 ## Dossiers
 
-### Suivi
+### [Suivi](/1-Suivi/) 
 - Journal de bord
 - Présentations
-### Contenu
+### [Recherche](/2-Recherche/)
 - Notes
 - Liste des jeux
-- Photos
-- Captures
-### Entretiens
+- Images
+### [Entretiens](/3-Entretiens/)
 - Questions
 - Enregistrements
+- Captures
 - Retranscriptions
-### Écriture
+### [Écriture](/4-Ecriture/)
 - Plan
 - Chapitres
 - Bibliographie
