@@ -2,7 +2,7 @@
 
 Master Media Design - HEAD-Genève
 
-## « Dans quelle mesure les jeux abordant les droits humains développent-ils un sentiment d’empathie chez la personne qui en fait l’expérience ? Quels rôles peuvent-ils avoir dans l’aspiration à une société plus accueillante et inclusive ? »
+## « Dans quelle mesure les jeux abordant les droits humains développent-ils un sentiment d’empathie chez la personne qui en fait l’expérience ? Quels rôles peuvent-ils jouer dans l’aspiration à une société plus acueillante et inclusive ? »
 
 ![Chapatte](/2-Recherche/Images/CHAPPATTE-071.jpg)
 
