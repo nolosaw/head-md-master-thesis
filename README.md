@@ -6,6 +6,8 @@ Mathilde Schibler
 
 ## « Dans quelle mesure les jeux abordant les droits humains développent-ils un sentiment d’empathie chez la personne qui en fait l’expérience ? Quels rôles peuvent-ils jouer dans l’aspiration à une société plus accueillante et inclusive ? »
 
+[Présentation du 30 mai 2024](/1-Suivi/Presentations/20240530-thesis-presentation/20240530-thesis-presentation.pdf)
+
 ![Chapatte](/2-Recherche/Images/CHAPPATTE-071.jpg)
 
 ## Dossiers
