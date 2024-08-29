@@ -69,6 +69,7 @@ URL : [Salaam - Jeu pour réfugiés](https://www.jeuxvideo.com/jeux/ios/jeu-1161
 
 ---
 
+
 ### **Papers, Please**
    URL : [Papers, Please sur Steam](https://store.steampowered.com/app/239030/Papers_Please/)
 - **Type de jeu** : Puzzle, simulation
@@ -228,4 +229,17 @@ URL : [Salaam - Jeu pour réfugiés](https://www.jeuxvideo.com/jeux/ios/jeu-1161
 - **Thèmes abordés** : Droits humains, réfugiés, migration
 - **Niveau d'engagement** : Très engagé
 - **Régions du monde concernées** : Monde entier
+
+
+
+### **Syrian Journey by BBC**
+   - **URL**: [BBC - Syrian Journey](https://www.bbc.co.uk/news/world-middle-east-32057601)
+   - **Type de jeu**: Jeu interactif narratif
+   - **Plateforme(s)**: Web
+   - **Éditeur**: BBC News
+   - **Créateur**: BBC News
+   - **Synopsis**: *Syrian Journey* est un jeu interactif qui place les joueurs dans la peau de réfugiés syriens fuyant la guerre civile. Les joueurs prennent des décisions critiques qui déterminent leur sécurité, leur survie, et les aboutissants de leur voyage vers l'Europe.
+   - **Thèmes abordés**: Migration, guerre, droits des réfugiés, choix moraux
+   - **Niveau d'engagement**: Modéré à élevé (décisions narratives influençant le déroulement)
+   - **Régions du monde concernées**: Moyen-Orient, Europe
 
