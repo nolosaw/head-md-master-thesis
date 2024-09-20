@@ -1,23 +1,22 @@
 # Master Thesis
 
-Master Media Design - HEAD-Genève
-Mémoire de Master Thesis
-Mathilde Schibler
+Bienvenue sur le git de mon travail de mémoire ! Ici on écrit, on réfléchit, on lit, on discute, on joue, on écrit encore et on procrastine un peu aussi parfois. Le sujet qui nous intéresse c'est : *"Design et politique, les jeux qui traitent de migration forcée et l'engagement concret qu'ils suscitent"* ...mais le nom risque de changer encore une dizaine de fois. 
 
-## « Dans quelle mesure les jeux abordant les droits humains développent-ils un sentiment d’empathie chez la personne qui en fait l’expérience ? Quels rôles peuvent-ils jouer dans l’aspiration à une société plus accueillante et inclusive ? »
+## Que lire pour suivre l'avancement du travail ?
 
-[Présentation du 30 mai 2024](/1-Suivi/Presentations/20240530-thesis-presentation/20240530-thesis-presentation.pdf)
-
-![Chapatte](/2-Recherche/Images/CHAPPATTE-071.jpg)
+- [Le work in progress](/1-Suivi/WIP.md)
+- [Le début d'analyse des jeux](/2-Recherche/analyses.md)
 
 ## Dossiers
 
 ### [Suivi](/1-Suivi/) 
-- Journal de bord
+- Work in progress
 - Présentations
 ### [Recherche](/2-Recherche/)
 - Notes
+- Articles
 - Liste des jeux
+- Analyse de jeux
 - Images
 ### [Entretiens](/3-Entretiens/)
 - Questions
