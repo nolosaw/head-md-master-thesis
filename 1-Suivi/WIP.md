@@ -51,3 +51,38 @@ La presque totalité de mes références sur mon sujet sont organisées sur la p
 
 Pour l'instant, je n'ai pas un plan très défini. Cependant, voici des éléments en vrac que je souhaite intégrer à la structure du mémoire.
 
+#### En vrac
+
+La relation entre la fiction et le réel. L'idée qu'elle permet de mettre les personnes à la place d'autres et de les faire "vivre" des situations qu'iels ne pourraient jamais vivre en vrai, et que cela forge la compassion. 
+Que la compassion sert l'engagement. 
+
+Le design a un rôle politique et que le jeu en est une bonne démonstration. 
+
+S'interroger sur l'impact que l'identité des développeur des jeux a sur leur contenu et ensuite sur leur répercussions. 
+
+Dans l'analyse des jeux : prendre en compte l'importance et l'impact de : la narration, le réalisme, l'engagement, le rapport au réel, le support, le collectif, la frustration, la fiction, la comparaison, l'identification, la physicalité. Et comment tous ces éléments influence l'engagement chez les personnes qui jouent. 
+
+#### Le cheminement que j'aimerais suivre : 
+- Explication du constat politique autour des crises de migrations forcées et de la réaction à cela en Europe. 
+- Contextualisation autour du design engagé et du de l'histoire du jeu. 
+- Explication des termes importants et définition des limites du champ de la recherche. 
+- Prise de position ?
+- Cloissonnement de la recherche par les différents moyens qui permettent au jeu d'engranger ou non l'engagement. 
+- Les jeux viennent en appui du propos comme exemples/contre-exemples
+- Les entretiens et les discussions/workshops permettent d'introduire les prises de position
+- Les références scientifiques, journalistiques, littéraires viennent justifier le propos
+- Résumé de l'exploration et de la recherche
+- Pistes pour le travail pratique
+
+
+#### Des idées de thématiques cloisonnant le développement
+- Jeu collectif/solo
+- L'impact de la narration
+- Le réalisme
+- L'importance du support
+- La frustration comme moteur
+- L'identification
+- Le niveau de fiction/histoire vraies
+- La durée du jeu/ les itérations
+
+Je pense que tous ces moyens sont importants d'être évoqués mais qu'il est important que le plan suive un réel cheminement narratif qui amène le lecteur vers les conclusion et ouverture proposées : travailler sur cette narration sur la base des lectures et des jeux. 
