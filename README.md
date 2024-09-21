@@ -1,34 +1,47 @@
 # Master Thesis
 
-Bienvenue sur le git de mon travail de mémoire ! Ici on écrit, on réfléchit, on lit, on discute, on joue, on écrit encore et on procrastine un peu aussi parfois. Le sujet qui nous intéresse c'est : *Design et politique, les jeux traitant de migration forcée et l'engagement qu'ils engrangent.* ...mais le nom risque de changer encore une dizaine de fois. 
+Bienvenue sur le git de mon travail de master ! Ici on écrit, on réfléchit, on lit, on discute, on joue, on écrit encore et on procrastine un peu aussi parfois. Le sujet qui nous intéresse c'est : *Design et politique, les jeux traitant de migration forcée et l'engagement qu'ils engrangent.* ...mais le nom risque de changer encore une dizaine de fois. 
 
 ## Que lire pour suivre l'avancement du travail ?
 
-- [Le work in progress](/1-Suivi/WIP.md)
-- [Le début d'analyse des jeux](/2-Recherche/analyses.md)
+- [Le work in progress](/memoire/1-Suivi/memoire-WIP.md)
+- [Le début d'analyse des jeux](/memoire/2-Recherche/analyses.md)
 
-## Dossiers
 
-### [Suivi](/1-Suivi/) 
+## Liens
+- Dossier [RainDrop](https://raindrop.io/mathschibler/projet-de-master-44057628) qui répertorie tous les liens et références pour le mémoire et le projet pratique.
+- Channel [Arena](https://www.are.na/mathilde-mathschibler-gmail-com/master-thesis-2-b10k_ocsa) où je mets des choses qui m'intéressent.
+- Board [Figma](https://www.figma.com/team_invite/redeem/kl6CQZw7Fs60xjjEIpBo5y) qui présente des cartographies de ce qui se passe dans ma tête.
+
+
+## Structure des dossiers
+
+### Mémoire
+#### [Suivi](/memoire/1-Suivi/) 
 - Work in progress
 - Présentations
-### [Recherche](/2-Recherche/)
+#### [Recherche](/memoire/2-Recherche/)
 - Notes
 - Articles
 - Liste des jeux
 - Analyse de jeux
 - Images
-### [Entretiens](/3-Entretiens/)
+#### [Entretiens](/memoire/3-Entretiens/)
 - Questions
 - Enregistrements
 - Captures
 - Retranscriptions
-### [Écriture](/4-Ecriture/)
+#### [Écriture](/memoire/4-Ecriture/)
 - Plan
 - Chapitres
 - Bibliographie
-### Liens
-- [RainDrop](https://raindrop.io/mathschibler/projet-de-master-44057628)
-- [Miro](https://miro.com/welcomeonboard/Y1NrQk9IWlIxcXZ3ZUxud1BnNklkeVp6WUtPMExpZXJ4aEZka0M1Y1NNcUpVQWV4VXFuMnNwTnB6NE03UW5xQXwzNDU4NzY0NTI0ODg3OTc0NTI0fDI=?share_link_id=941536279571)
+
+### Projet pratique
+#### [Suivi](/1-Suivi/) 
+- Work in progress
+- Présentations
+#### [Recherche](/2-Recherche/)
+#### [Contenu](/4-Ecriture/)
+
 
 
