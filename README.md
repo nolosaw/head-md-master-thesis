@@ -37,11 +37,11 @@ Bienvenue sur le git de mon travail de master ! Ici on écrit, on réfléchit, o
 - Bibliographie
 
 ### Projet pratique
-#### [Suivi](/1-Suivi/) 
+#### [Suivi](/pratique/1-suivi/) 
 - Work in progress
 - Présentations
-#### [Recherche](/2-Recherche/)
-#### [Contenu](/4-Ecriture/)
+#### [Recherche](/pratique/2-recherche/)
+#### [Contenu](/pratique/3-contenu/)
 
 
 
